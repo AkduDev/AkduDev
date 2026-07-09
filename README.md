@@ -143,6 +143,6 @@ Aquí agregaré algunos proyectos personales relacionados con:
 
 ### ⭐ Gracias por visitar mi perfil
 
-*"Vicodear nunca fue tan divertido :) ."*
+
 
 

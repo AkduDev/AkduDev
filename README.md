@@ -135,7 +135,7 @@ Aquí agregaré algunos proyectos personales relacionados con:
 # 🤝 Conecta conmigo
 
 * GitHub: https://github.com/AkduDev
-* Empresa: https://tdevbazaar.github.io/Bazaar/#
+* Empresa: https://devparadise.vercel.app
 
 ---
 

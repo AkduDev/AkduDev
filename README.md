@@ -15,7 +15,7 @@ Soy **Backend Developer** con alrededor de **5 años de experiencia** desarrolla
 
 Me apasiona diseñar soluciones robustas aplicando principios de ingeniería de software como **Clean Architecture**, patrones de diseño y arquitecturas escalables. Además, disfruto colaborar en el desarrollo de interfaces modernas con **Angular** y **React**, logrando aplicaciones Full Stack de alto rendimiento.
 
-Actualmente formo parte del equipo de desarrollo de **TDev Bazaar**, participando en la construcción de soluciones enfocadas en calidad, mantenibilidad y escalabilidad.
+Actualmente formo parte del equipo de desarrollo de **DevParadise**, participando en la construcción de soluciones enfocadas en calidad, mantenibilidad y escalabilidad.
 
 ---
 

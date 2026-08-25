@@ -75,7 +75,7 @@ Actualmente formo parte del equipo de desarrollo de **DevParadise**, participand
 
 ### Backend Developer
 
-**TDev Bazaar**
+**DevParadise**
 
 * Desarrollo de APIs con ASP.NET Core
 * Diseño de soluciones escalables
